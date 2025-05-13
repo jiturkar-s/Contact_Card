@@ -1,5 +1,5 @@
 *{
-    margin: 20px;
+    margin: 10px;
     padding: 0;
     box-sizing: border-box;
 }
@@ -21,7 +21,7 @@ body{
 }
 
 .card {
-    background-color: rgb(155, 152, 153);
+    background-color: rgb(163, 135, 135);
     width: 90%;
     max-width: 320px;
     border-radius: 15px;
@@ -43,9 +43,9 @@ body{
 }
 
 .name{
-    color:darkslategrey;
+    color:rgb(76, 17, 17);
     font-size: 30px;
-    font-weight: 700;
+    font-weight: 800;
 }
 
 .title {
@@ -55,7 +55,7 @@ body{
 }
 
 .content {
-    color: darkslategrey;
+    color: rgb(76, 17, 17);
 }
 
 .social a{
@@ -67,7 +67,7 @@ body{
 }
 
 button {
-    background-color: darkslategrey;
+    background-color: rgb(76, 17, 17);
     color: white;
     border: none;
     padding: 10px 25px;
@@ -77,6 +77,6 @@ button {
 }
 
 button:hover{
-    background-color: rgb(82, 109, 109);
+    background-color: rgb(107, 62, 62);
 }
 
