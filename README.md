@@ -8,7 +8,7 @@ This is a simple HTML/CSS project.
 
 ## 💻 Screenshot
 
-![Contact Card](/contact-card.png)
+![Contact Card](/Contact-Card.png)
 
 ## Author
 Smriti J Atre
